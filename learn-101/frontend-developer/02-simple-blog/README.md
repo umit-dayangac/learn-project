@@ -24,15 +24,17 @@ This project simulates a blog layout with multiple blog post cards and responsiv
 ## 📁 Folder Structure
 
 02-simple-blog/
-├── index.html 
+├── index.html
 ├── assets/
-│  └── css
-│  │  └── style.css
-│  └── img/
-│     ├── blog1.jpg
-│     ├── blog2.jpg
-│     └── blog3.jpg
-└── README.md
+│   ├── css/
+│   │   └── style.css
+│   └── img/
+│       ├── blog1.jpg
+│       ├── blog2.jpg
+│       ├── blog3.jpg
+│       └── Screenshot.png
+└── README.md 
+
 
 
 ## 📱 Responsive Design
